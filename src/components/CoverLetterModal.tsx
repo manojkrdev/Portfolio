@@ -13,10 +13,10 @@ export default function CoverLetterModal({ isOpen, onClose }: CoverLetterModalPr
   const company = "Engineering Department";
 
   // Dynamically calculate the current date
-  const currentDateString = new Date().toLocaleDateString('en-US', { 
-    month: 'long', 
-    day: 'numeric', 
-    year: 'numeric' 
+  const currentDateString = new Date().toLocaleDateString('en-US', {
+    month: 'long',
+    day: 'numeric',
+    year: 'numeric'
   });
 
   // Close modal on ESC key
@@ -251,7 +251,7 @@ manojkr32000@gmail.com | +91 xxxxxxxxxx`;
                 <h1>MANOJ KUMAR</h1>
                 <div class="sub">Android Developer</div>
                 <div class="contacts">
-                  <span>+91 7255804850</span>
+                  <span>+91 xxxxxxxxxx</span>
                   <span>manojkr32000@gmail.com</span>
                   <span>linkedin.com/in/themanojkr</span>
                 </div>
@@ -371,7 +371,7 @@ manojkr32000@gmail.com | +91 xxxxxxxxxx`;
 
           {/* Letter Body View (Scrollable area) */}
           <div className="flex-1 overflow-y-auto p-8 text-left bg-zinc-950 text-zinc-300 font-sans text-sm leading-relaxed space-y-6">
-            
+
             {/* Sender Address */}
             <div className="flex justify-between items-start border-b border-white/5 pb-4">
               <div>
@@ -379,7 +379,7 @@ manojkr32000@gmail.com | +91 xxxxxxxxxx`;
                 <p className="text-purple-450 text-xs font-semibold uppercase tracking-wider font-mono">Software Engineer – Android</p>
               </div>
               <div className="text-right text-xs text-zinc-400 font-mono space-y-1">
-                <p>+91 7255804850</p>
+                <p>+91 xxxxxxxxxx</p>
                 <p><a href="mailto:manojkr32000@gmail.com" className="hover:text-purple-400 transition">manojkr32000@gmail.com</a></p>
                 <p><a href="https://linkedin.com/in/themanojkr" target="_blank" rel="noreferrer" className="hover:text-purple-400 transition">linkedin.com/in/themanojkr</a></p>
               </div>
