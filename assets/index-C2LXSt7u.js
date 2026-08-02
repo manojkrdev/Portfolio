@@ -453,7 +453,7 @@ manojkr32000@gmail.com | +91 xxxxxxxxxx`,g=()=>{navigator.clipboard.writeText(p(
       <h1>MANOJ KUMAR</h1>
       <div class="title-sub">Android Developer</div>
       <div class="contact-info">
-        <span><strong>Phone:</strong> +91 7255804850</span>
+        <span><strong>Phone:</strong> +91 xxxxxxxxxx</span>
         <span><strong>Email:</strong> <a href="mailto:manojkr32000@gmail.com">manojkr32000@gmail.com</a></span>
         <span><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/themanojkr" target="_blank">linkedin.com/in/themanojkr</a></span>
       </div>
