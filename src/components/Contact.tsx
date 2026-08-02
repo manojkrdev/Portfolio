@@ -66,7 +66,7 @@ export default function Contact() {
                 </a>
 
                 <a 
-                  href="tel:+917255804850" 
+                  href="tel:+91xxxxxxxxxx" 
                   className="flex items-center gap-3 p-3 bg-white/5 rounded-xl border border-white/10 hover:border-purple-500/30 hover:text-white transition group"
                 >
                   <div className="p-2 bg-white/5 rounded-lg group-hover:bg-purple-900/20 text-blue-400">
@@ -74,7 +74,7 @@ export default function Contact() {
                   </div>
                   <div className="flex-1 text-left min-w-0">
                     <p className="text-[9px] text-zinc-500 font-mono">PHONE TELEPHONE</p>
-                    <p className="text-[11.5px] text-zinc-300 group-hover:text-blue-300">+91 7255804850</p>
+                    <p className="text-[11.5px] text-zinc-300 group-hover:text-blue-300">+91 xxxxxxxxxx</p>
                   </div>
                 </a>
 
