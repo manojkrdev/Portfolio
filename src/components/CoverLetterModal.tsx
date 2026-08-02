@@ -57,7 +57,7 @@ Sincerely,
 
 Manoj Kumar
 Android Developer
-manojkr32000@gmail.com | +91 7255804850`;
+manojkr32000@gmail.com | +91 xxxxxxxxxx`;
   };
 
   const handleCopy = () => {
