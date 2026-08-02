@@ -182,7 +182,7 @@ export default function Hero() {
       <h1>MANOJ KUMAR</h1>
       <div class="tagline">Android Developer</div>
       <div class="contact-links">
-        <span>+91 7255804850</span>
+        <span>+91 xxxxxxxxxx</span>
         <span>&bull;</span>
         <a href="mailto:manojkr32000@gmail.com">manojkr32000@gmail.com</a>
         <span>&bull;</span>
